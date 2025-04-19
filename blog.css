@@ -1,0 +1,277 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #FDDFDF;
+}
+.blog{
+    background-image: url("imagenes/blog.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.cajaPastel{
+    text-align: center;
+    gap: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 4%;
+    width: 100%;
+}
+.Pasteles{
+    background-color: #FA9E9F;
+    border: 3px solid #ffffff;
+    border-radius: 20px;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 1%;
+    width: 25%;
+}
+
+.img{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 5%;
+    margin-top: 4%;
+}
+
+.pastel{
+    width: 50%;
+    height: 40vh;
+    background-color: #FA9E9F;
+}
+
+.pastel1{
+    background-image: url("imagenes/p1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.pastel2{
+    background-image: url("imagenes/p2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.pastel3{
+    background-image: url("imagenes/p3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.pastel4{
+    background-image: url("imagenes/p4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.cajaHelado{
+    text-align: center;
+    gap: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 4%;
+    width: 100%;
+}
+
+.Helados{
+    background-color: #FA9E9F;
+    border: 3px solid #ffffff;
+    border-radius: 20px;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 1%;
+    width: 25%;
+}
+
+.helado1{
+    background-image: url("imagenes/h1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.helado2{
+    background-image: url("imagenes/h2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.helado3{
+    background-image: url("imagenes/h3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.helado4{
+    background-image: url("imagenes/h4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.cajaCafes{
+    text-align: center;
+    gap: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 4%;
+    width: 100%;
+}
+
+.Cafes{
+    background-color: #FA9E9F;
+    border: 3px solid #ffffff;
+    border-radius: 20px;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 1%;
+    width: 25%;
+}
+
+.cafe1{
+    background-image: url("imagenes/c1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.cafe2{
+    background-image: url("imagenes/c2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.cafe3{
+    background-image: url("imagenes/c3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.cafe4{
+    background-image: url("imagenes/c4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+
+.cajaCup{
+    text-align: center;
+    gap: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 4%;
+    width: 100%;
+}
+
+.Cup{
+    background-color: #FA9E9F;
+    border: 3px solid #ffffff;
+    border-radius: 20px;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 1%;
+    width: 25%;
+}
+
+.cup1{
+    background-image: url("imagenes/cu1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.cup2{
+    background-image: url("imagenes/cu2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.cup3{
+    background-image: url("imagenes/cu3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+.cup4{
+    background-image: url("imagenes/cu4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+
+button{
+    background: hsl(359, 50%, 59%);
+    background-color: #FA9E9F;
+    border: 3px solid #ffffff;
+    border-radius: 15px;
+    color: #ffffff;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 20px;
+}
+
+.cajaVolver{
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
