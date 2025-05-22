@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FDDFDF;
+}
+
+.portada{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    margin-top: 5%;
+    border: 3px solid #FA9E9F;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+}
+
+input{
+    margin: 5px;
+    height: 25px;
+    width: 95%;
+    border: 2px solid #FA9E9F;
+    border-radius: 5px;
+}
+
+label{
+    margin: 5px;
+    font-size: 20px;
+    font-family: "Poetsen One", sans-serif;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+button{
+    background-color:#FDDFDF;
+    width: 20%;
+    border: 3px solid #FA9E9F;
+    border-radius: 5px;
+    padding: 3px;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 18px;
+}
